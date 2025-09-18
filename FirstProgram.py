@@ -1,0 +1,5 @@
+print("Hammad Rizvi")
+print("120")
+print("12*14")
+print(12*14)
+print(15+16)
